@@ -1,0 +1,25 @@
+{
+  "name": "tim",
+  "version": "1.0.0",
+  "description": "UserProfiles with Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tberry30/devmtn_user_profiles_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tberry30/devmtn_user_profiles_node/issues"
+  },
+  "homepage": "https://github.com/tberry30/devmtn_user_profiles_node#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1"
+  }
+}
